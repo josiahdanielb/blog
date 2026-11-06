@@ -1,0 +1,15 @@
+title: "Daniel Josiah's Blog"
+description: "A repository of logs pertaining to improving in software engineering."
+author: "Daniel Josiah"
+
+url: "https://josiahdanielb.github.io"
+baseurl: ""
+
+theme: minima
+
+markdown: kramdown
+
+permalink: /:title/
+
+plugins:
+  - jekyll-feed
